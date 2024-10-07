@@ -1,9 +1,0 @@
-Mon Oct 07 11:47:25 2024 UTC - GameOverlay process started: pid: 5964
-Mon Oct 07 11:47:25 2024 UTC - GameOverlay process connecting to: pid: 13404
-Mon Oct 07 11:47:25 2024 UTC - BuildID: 1728093750
-Mon Oct 07 11:47:25 2024 UTC - Steam Path: C:\Program Files (x86)\Steam
-Mon Oct 07 11:47:25 2024 UTC - Got gameid on commandline: 15845159486361698304
-Mon Oct 07 11:47:25 2024 UTC - SetScreenSize from (1920, 1080) to ( 1536, 864 )
-Mon Oct 07 11:47:25 2024 UTC - Changing resolution from (1920, 1080) to (1536, 864)
-Mon Oct 07 12:02:04 2024 UTC - Game Exit Event signaled.
-Mon Oct 07 12:02:04 2024 UTC - Shutting down overlay
