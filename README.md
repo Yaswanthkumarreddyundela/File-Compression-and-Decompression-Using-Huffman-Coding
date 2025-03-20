@@ -24,7 +24,7 @@ Ensure you have:
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/Yaswanthkumarreddyundela/File-Compression-and-Decompression-Using-Huffman-Coding.git
-   cd File-Compression-and-Decompression-Using-Huffman-Coding/file%20compression%20and%20decompression%20visualizer/file_compressor-master
+   cd File-Compression-and-Decompression-Using-Huffman-Coding/
    ```
 
 2. **Run the project**  
