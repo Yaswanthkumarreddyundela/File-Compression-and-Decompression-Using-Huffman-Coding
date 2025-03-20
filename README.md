@@ -64,10 +64,10 @@ Ensure you have:
 
 ## Screenshots  
 🔹 **Main Interface**  
-![Main UI](assets/text_file_icon1.png)  
+![Main UI](images/screenshot(711).png)  
 
 🔹 **Compression & Decompression Process**  
-![Processing](assets/options_icon2.png)  
+![Processing](assets/screenshoot(710).png)  
 
 ## Future Enhancements  
 🔹 Support for multiple file formats (e.g., `.csv`, `.json`)  
