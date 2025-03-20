@@ -1,4 +1,3 @@
-Here’s an improved README file for your **File Compression and Decompression Using Huffman Coding** project, based on your code and implementation.  
 
 ---
 
