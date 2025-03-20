@@ -1,0 +1,233 @@
+
+
+Question-1
+Obsidian is which type of application?
+
+*
+Business
+Art
+Management
+Education
+Question-2
+Your company is planning to implement a cloud solution that gives full control over computing resources, such as virtual machines, storage, and networking. They also want to manage and customize these resources. Which model will be required?
+*
+Software as a Service (SaaS)
+Platform as a Service (PaaS)
+Infrastructure as a Service (IaaS)
+Function as a Service (FaaS)
+Question-3
+MOO is which type of application
+*
+Business
+Art
+Education
+Management
+Question-4
+Which of the following sums up the cloud computing "pay-as-you-go" approach the best?
+
+*
+The amount you pay depends on how much you really use cloud resources.
+You are charged based on your usage
+You pay for services in instalments
+You pay for a subscription to cloud services, regardless of usage
+Question-5
+What does the term multi-tenancy refer to in cloud computing?
+
+*
+The capacity to use a single server to host several virtual machines
+a single instance of software that serves
+a single software instance servicing customers
+The separation of cloud services over several geographical areas
+question-6
+Which of the following is NOT a primary benefit of cloud computing?
+
+*
+Reduced capital expenditure
+High availability and disaster recovery
+Full control over hardware
+Flexible scalability
+Question-7
+What is the primary difference between public and private clouds?
+*
+Private clouds are for a single organization, whereas public clouds are for several organizations.
+Private clouds are more secure than public clouds
+Public clouds are free, while private clouds have costs
+Public clouds are hosted on-premise, while private clouds are hosted off-premise
+Question-8
+What is meant by data residency in relation to cloud computing? 
+*
+Data is always kept in the nation of origin of the cloud provider.
+The physical location of the data in accordance with local regulations
+Encrypted data is kept in that format.
+The data's physical placement in compliance with local laws
+Question-9
+Millions of people utilize an e-commerce site from various geographical locations. The corporation distributes its workload among several servers located in different regions to guarantee low-latency access to its services worldwide. Which architecture ought to be put into practice?
+
+*
+Monolithic Architecture
+Centralized Architecture
+Single Node Architecture
+Distributed Architecture
+Question-10
+A distributed database system must make sure that the failure of any one node doesn't bring the system as a whole down. Ensuring fault tolerance while maintaining good connectivity is crucial.  Which distributed systems characteristic does this example highlight?
+*
+Scalability
+Latency
+Partition Tolerance
+Availability
+Question-11
+A distributed system is being operated by a company across several data centers. By making sure that customer requests are sent to the closest data center that is available, they hope to increase response times. Which system is most effective at doing this? 
+
+*
+Round Robin Scheduling
+Geo-Distributed Load Balancing
+Randomized Load Balancing
+Single Point Load Balancing
+Question-12
+A distributed messaging system is being designed by a team. They must disperse messages evenly among several servers in order to avoid overloading a single server. Which method would divide the workload the most effectively? 
+
+*
+Leader Election
+Consensus Algorithm
+Sharding
+Two-Phase Commit
+question-13
+A distributed file system must maintain the availability of files even if one of the storage nodes fails. The company wants to ensure data redundancy to prevent data loss. Which technique should they implement?
+*
+Partitioning
+Sharding
+Replication
+Leader Election
+Question-14
+High read and write request volumes are managed via a distributed database. But the business discovers that not every portion of the database is accessed in the same way. They want to store frequently requested data on high-performance nodes to optimize storage and lower latency.
+Which rule ought to direct this choice?
+*
+Replication
+Caching
+Partitioning
+Consensus
+Question-15
+An e-commerce platform experiences varying traffic patterns, with certain times seeing high loads. Their goal is to ensure that there is no lack of resources during periods of heavy demand while preventing overprovisioning of resources during periods of low traffic. Which philosophy responds to this issue the best?
+*
+Consistency
+On-demand Provisioning
+Fault Tolerance
+Virtualization
+Question-16
+A distributed system is being used by an AI research organization to train machine learning models. Because of the system's high resource consumption, they aim to reduce the amount of time that computers are idle while maintaining effective processing. Which principle is most relevant ?
+*
+Sharding
+Resource Pooling
+Horizontal Scaling
+Fault Tolerance
+Question-17
+A business maintains a number of systems, including those for billing, inventory, and customer service. They wish to reuse current services for upcoming applications and have loosely linked interactions between these systems. Which architecture should they implement?
+*
+Monolithic Architecture
+Client-Server Architecture
+Service-Oriented Architecture
+Event-Driven Architecture
+Question-18
+Orders, payments, and delivery are just a few of the business processes that an online retailer uses SOA to handle. To handle delays without resulting in failures, the organization must make sure that various services are able to interact in diverse ways.
+To make sure of this, which SOA principle should be used? 
+*
+Asynchronousness
+Statelessness
+Strong Coupling
+Centralized Control
+Question-19
+In order to have complete control over its infrastructure, a small IT services company wants to install a private cloud. However, in order to keep costs down, they want to employ open-source software. They require a platform that enables them to control networking, storage, and processing. Which cloud platform should they choose?
+
+*
+AWS
+Google Cloud Platform
+OpenStack
+Microsoft Azure
+Question-20
+An organization want to use AWS to host a web application. The database must stay secret and inaccessible from the internet, yet they require the application's frontend to be online.
+In what way should they set up their Amazon VPC?
+*
+Put the web server in a public subnet and the database in a private subnet.
+Put both the web server and database in the same private subnet.
+A private subnet should house the database, and a public subnet should house the web server
+Put the database in a public subnet and the web server in a private subnet.
+Question-21
+A financial services company wants to create a high-security VPC environment on AWS. They require all traffic between AWS services and the internet to be inspected by firewalls and proxies for threat detection before reaching their instances. Which architecture should they implement? 
+
+*
+Create a NAT Gateway in each subnet.
+Implement a Transit Gateway with security appliances in a dedicated inspection subnet.
+Use VPC Flow Logs for monitoring.
+Establish a transit gateway in a specific inspection subnet equipped with security appliances
+Question-22
+A technology company needs to set up a private subnet for backend processing while ensuring that certain instances can communicate with an S3 bucket over a private connection rather than the public internet. Which feature should they use to meet this requirement?
+
+*
+VPC Endpoint
+Internet Gateway
+VPC Peering
+NAT Gateway
+Question-23
+A private cloud system that enables management of virtual machines, block storage, and object storage is necessary for a large organization. Additionally, they want to guarantee that they have total control over their cloud environment. Which OpenStack components should they deploy?
+*
+Keystone, and VPC
+Nova, Neutron, and Swift
+Glance, RDS, and CloudWatch
+Compute Engine, Cloud SQL, and Pub/Sub
+Question-24
+A small e-commerce startup has limited resources and needs to build a simple web application that handles user registrations, payments, and product management within a single application. They prioritize rapid development and easy deployment, tell the architecture?
+
+*
+Distributed microservices architecture
+Monolithic architecture
+Event-driven architecture
+Distributed monolithic architecture
+Question-25
+A social media company is running a monolithic application that includes authentication, user profiles, feeds, and messaging. As the platform grows, they are experiencing challenges in scaling specific features like the messaging service. What is the best course of action to resolve these scaling challenges?
+
+*
+Introduce caching to improve performance in monolithic
+Refactor the monolithic application into microservices
+Refactor the number of services running in monolithic to microservice application
+Migrate the monolithic application to a cloud-based infrastructure
+Question-26
+A retail company wants to improve fault tolerance and reduce the risk of a complete application failure. Currently, they run all functionalities in a monolithic architecture. They are considering moving to a distributed system to improve resilience. What key benefit will the distributed system provide in terms of fault tolerance?
+
+*
+Every service can scale independently based on demand
+Distributed systems have lower operational costs
+Failures do not affect the entire application
+Code deployment is faster for distributed systems
+Question-27
+A gaming company using a monolithic application has noticed slower performance as the number of users has grown. The backend team wants to scale out their application and improve performance but is concerned about high development costs.
+
+What should they consider before migrating to a microservices architecture?
+*
+The ease of maintaining each microservice independently
+The added things increases development and operational costs
+The cost savings from using cloud services
+The ability to deploy all services simultaneously
+Question-28
+A healthcare company is building a platform with multiple microservices. They want to ensure secure communication between services without introducing unnecessary complexity. Which approach would best secure the communication between their microservices?
+
+*
+Using HTTPS between services
+Relying on firewalls without encrypting communication
+Using encrypted HTTPS between services for better performance
+Using a single shared database for all microservices
+Question-29
+A logistics company is implementing DDD for its shipment tracking system. They need to model a "Shipment" in a way that includes properties like weight, origin, and destination. This object must have a unique identifier and lifecycle management.
+*
+Value Object
+Entity
+Repository
+Aggregate
+Question-30
+A healthcare system's team is developing a patient management module. To ensure that all stakeholders—developers, doctors, and business analysts—use the same terminology when discussing features
+*
+Aggregates
+Anti-corruption Layer
+Domain Event
+Ubiquitous Language
+This content is neither created nor endorsed by Google. Report Abuse - Terms of Service - Privacy Policy
+Google Forms
